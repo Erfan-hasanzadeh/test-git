@@ -12,6 +12,7 @@ git config user.email "ایمیل" #local project
 git config --list 
 git commit -m "massage"
 git log
+git log --oneline 
 git checkout (hash)
 git checkout master (HEAD)
 git checkout (name)
