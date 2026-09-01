@@ -1,0 +1,26 @@
+git --version
+git --help
+git update-git-for-windows
+git init
+git add index.html
+git add .
+git status
+git config --global user.name "یوزر یا اسمت " #general project
+git config --global user.email "ایمیل" #general project
+git config user.name "یوزر یا اسمت" #local project
+git config user.email "ایمیل" #local project      
+git config --list 
+git commit -m "massage"
+git log
+git checkout (hash)
+git checkout master (HEAD)
+git checkout (name)
+ls
+ls -la
+cd .git
+cd ..
+clear
+git merge (name branch)
+git branch (name)
+git branch
+git branch -d (name branch)
