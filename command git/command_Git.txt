@@ -19,6 +19,7 @@ git checkout (name)
 git switch master
 git checkout -b feature_bugandfix_2
 git switch -c feature_bugandfix_1
+git cherry-pick (hash commit)
 ls
 ls -la
 cd .git
