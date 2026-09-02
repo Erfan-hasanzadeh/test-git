@@ -25,6 +25,7 @@ cd .git
 cd ..
 clear
 git merge (name branch)
+git merge feature_bugandfix_1 -m "a text massage"
 git branch (name)
 git branch
 git branch -d (name branch)
