@@ -1,3 +1,5 @@
 Updated AI content
  change ai model
-Master is working on this critical line
+--------------------------------
+
+Everything is solved - AI.txt is compiled and happy !. ready to merge !!
