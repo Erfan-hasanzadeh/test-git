@@ -29,3 +29,5 @@ echo "this is my first AI file" > AI.txt
 git add DL.txt ML.txt
 echo ApiKey.txt > .gitignore  
 echo .env >> .gitignore   
+echo "Demo Data" > SampleData/data.txt  
+echo SampleData/ >> .gitignore 
