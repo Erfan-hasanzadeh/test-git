@@ -27,3 +27,5 @@ git branch
 git branch -d (name branch)
 echo "this is my first AI file" > AI.txt
 git add DL.txt ML.txt
+echo ApiKey.txt > .gitignore  
+echo .env >> .gitignore   
