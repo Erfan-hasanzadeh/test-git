@@ -16,6 +16,7 @@ git log --oneline
 git checkout (hash)
 git checkout master (HEAD)
 git checkout (name)
+git switch master
 ls
 ls -la
 cd .git
