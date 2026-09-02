@@ -17,6 +17,8 @@ git checkout (hash)
 git checkout master (HEAD)
 git checkout (name)
 git switch master
+git checkout -b feature_bugandfix_1
+git switch -c feature_bugandfix_1
 ls
 ls -la
 cd .git
