@@ -31,3 +31,4 @@ echo ApiKey.txt > .gitignore
 echo .env >> .gitignore   
 echo "Demo Data" > SampleData/data.txt  
 echo SampleData/ >> .gitignore 
+Exprot/.gitkeep
