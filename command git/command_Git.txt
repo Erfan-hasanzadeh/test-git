@@ -31,6 +31,8 @@ git rebase (name)
 git branch (name)
 git branch
 git branch -d (name branch)
+git diff
+git diff (branch 1) (branch 2)
 echo "this is my first AI file" > AI.txt
 git add DL.txt ML.txt
 echo ApiKey.txt > .gitignore  
