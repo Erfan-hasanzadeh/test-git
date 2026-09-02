@@ -3,3 +3,6 @@ Updated AI content
 --------------------------------
 
 Everything is solved - AI.txt is compiled and happy !. ready to merge !!
+
+
+I have added more Something AI releated to AI.txt 
