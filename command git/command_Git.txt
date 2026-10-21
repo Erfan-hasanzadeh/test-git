@@ -32,6 +32,7 @@ git rebase (name)
 git branch (name)
 git branch
 git branch -d (name branch)
+git branch -m main
 git diff
 git diff (branch 1) (branch 2)
 git stash 
@@ -39,6 +40,12 @@ git stash pop
 git stash push -m "text"
 git stash drop stash@{0}
 git stash drop 'stash@{0}' / in powershell
+git push -u origin main
+git pull origin main --allow-unrelated-histories
+git clone [link repo]
+git remote add origin [link repo]
+git remote -v 
+git remote set-url origin https://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@github.com/Erfan-hasanzadeh/test-git.git
 echo "this is my first AI file" > AI.txt
 git add DL.txt ML.txt
 echo ApiKey.txt > .gitignore  
