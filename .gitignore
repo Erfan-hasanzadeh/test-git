@@ -1,3 +1,4 @@
 ApiKeys.txt
 .env
 SampleData/
+*.doc
